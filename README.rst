@@ -1,7 +1,7 @@
 Alita
 =====
 
-Alita是一个基于轻量级的Web异步服务器框架。
+一个轻量级的Web异步服务器框架，需要Python3.4+版本。
 
 
 Installing

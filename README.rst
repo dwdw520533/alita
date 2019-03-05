@@ -7,8 +7,6 @@ Alita是一个基于轻量级的Web异步服务器框架。
 Installing
 ----------
 
-Install and update using `pip`_:
-
 .. code-block:: text
 
     pip install -r requirements.txt
